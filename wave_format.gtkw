@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Feb 25 16:35:13 2026
+[*]
+[dumpfile] "C:\Verilog_project\pipeline_cpu\cpu_wave.vcd"
+[dumpfile_mtime] "Wed Feb 25 16:32:25 2026"
+[dumpfile_size] 95534
+[savefile] "C:\Verilog_project\pipeline_cpu\wave_format.gtkw"
+[timestart] 4
+[size] 1000 600
+[pos] -23 -68
+*-4.853444 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_top.
+[sst_width] 197
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+tb_top.dut.clk
+@22
+tb_top.dut.PCF[31:0]
+tb_top.dut.PCE[31:0]
+tb_top.dut.SrcAE[31:0]
+tb_top.dut.SrcBE[31:0]
+tb_top.dut.ALUResultE[31:0]
+@28
+tb_top.dut.Branch_occurredE
+tb_top.dut.ForwardAE[1:0]
+tb_top.dut.ForwardBE[1:0]
+tb_top.dut.StallF
+tb_top.dut.StallD
+tb_top.dut.FlushD
+tb_top.dut.FlushE
+tb_top.dut.RegWriteW
+@22
+tb_top.dut.RdW[4:0]
+tb_top.dut.ResultW[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
